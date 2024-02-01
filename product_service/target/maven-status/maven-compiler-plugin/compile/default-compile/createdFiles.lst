@@ -1,0 +1,10 @@
+com\dreamfist\product_service\dto\ProductRes$ProductResBuilder.class
+com\dreamfist\product_service\repository\ProductRepo.class
+com\dreamfist\product_service\dto\ProductRes.class
+com\dreamfist\product_service\model\Product$ProductBuilder.class
+com\dreamfist\product_service\ProductServiceApplication.class
+com\dreamfist\product_service\service\ProductService.class
+com\dreamfist\product_service\dto\ProductReq$ProductReqBuilder.class
+com\dreamfist\product_service\controller\ProductController.class
+com\dreamfist\product_service\dto\ProductReq.class
+com\dreamfist\product_service\model\Product.class
