@@ -19,8 +19,8 @@
         <module>order_service</module>
         <module>product_service</module>
         <module>inventory_service</module>
-
         <module>discovery_service</module>
+
     </modules>
 
 

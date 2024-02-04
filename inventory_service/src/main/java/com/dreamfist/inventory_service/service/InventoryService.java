@@ -20,9 +20,9 @@ public class InventoryService {
     private final InventoryRepo inventoryRepo; //construction injection by spring
 
     @Transactional(readOnly = true)
-    public List<InventoryRes> isInStock(List<String> skuCode){
+    public List<InventoryRes> isInStock(List<String> skuCodes){
 
-        return inventoryRepo.findBySkuCodes(skuCode).stream()
+        return inventoryRepo.findBySkuCodeIn(skuCodes).stream()
                 .map(inventory ->
                      InventoryRes.builder()
                             .inStock(inventory.getQuantity()>0)

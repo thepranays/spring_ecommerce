@@ -1,4 +1,7 @@
+com\dreamfist\order_service\dto\InventoryRes.class
+com\dreamfist\order_service\dto\InventoryRes$InventoryResBuilder.class
 com\dreamfist\order_service\dto\OrderLineItemDto.class
+com\dreamfist\order_service\config\WebClientConfig.class
 com\dreamfist\order_service\service\OrderService.class
 com\dreamfist\order_service\repository\OrderRepo.class
 com\dreamfist\order_service\dto\OrderReq.class

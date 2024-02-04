@@ -24,7 +24,7 @@ public class OrderService {
 
     //Constructor injection
     private final OrderRepo orderRepo;
-    private final WebClient webClient; //Auto-injected by referencing bean name
+    private final WebClient.Builder webClientBuilder; //Auto-injected by referencing bean name
 
 
     public void createOrder(OrderReq orderReq){
@@ -40,7 +40,7 @@ public class OrderService {
 
         //Check whether the ordered items are available in inventory
         // HTTP-GET REQUEST To inventory service , uses skyCode as query parameter
-        InventoryRes[] inventoryResultArray = webClient.get().uri("http://localhost:8082/api/inventory",
+        InventoryRes[] inventoryResultArray = webClientBuilder.build().get().uri("http://inventory_service/api/inventory",
                         uriBuilder -> uriBuilder.queryParam("sku_code",orderList).build())
                 .retrieve()
                 .bodyToMono(InventoryRes[].class)

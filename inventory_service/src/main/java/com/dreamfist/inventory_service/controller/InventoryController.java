@@ -18,12 +18,14 @@ public class InventoryController {
 
 
    //http://localhost:8082/api/inventory/rtx2060,rtx3060 -> Path variable format
-   // @GetMapping("/{sku_code}")
+   // @GetMapping("/{sku_code}")      //we can do @PathVariable("sku_code") String skuCode  //If don't want to adhere to naming conventions
+
    //http://localhost:8082/api/inventory?sku_code=rtx2060&sku_code=rtx3060 -> Request Parameter format
    @GetMapping
    @ResponseStatus(HttpStatus.OK)
-   public List<InventoryRes> isInStock(@RequestParam List<String> sku_code){ //we can do @PathVariable("sku_code") String skuCode
-       //If don't want to adhere to naming conventions
+   public List<InventoryRes> isInStock(@RequestParam List<String> sku_code){
+
+
 
       return this.inventoryService.isInStock(sku_code);
    }
