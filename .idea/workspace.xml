@@ -5,43 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a17dde-2b22-4c5a-8fbf-40ce21b42197" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/spring_ecommerce.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/OrderServiceApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/config/WebClientConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/dto/InventoryRes$InventoryResBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/dto/InventoryRes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/dto/OrderLineItemDto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/dto/OrderReq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/model/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/model/OrderLineItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/repository/OrderRepo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/service/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/order_service-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/order_service-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/surefire-reports/TEST-com.dreamfist.order_service.OrderServiceApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/surefire-reports/com.dreamfist.order_service.OrderServiceApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/test-classes/com/dreamfist/order_service/OrderServiceApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/api_gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/api_gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/discovery_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/discovery_service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,11 +195,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiscoveryServiceApplication" />
+        <item itemvalue="Application.ProductServiceApplication" />
         <item itemvalue="Application.ApiGatewayApplication" />
         <item itemvalue="Application.InventoryServiceApplication" />
         <item itemvalue="Application.OrderServiceApplication" />
-        <item itemvalue="Application.ProductServiceApplication" />
-        <item itemvalue="Application.DiscoveryServiceApplication" />
       </list>
     </recent_temporary>
   </component>
