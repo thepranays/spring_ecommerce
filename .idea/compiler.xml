@@ -11,6 +11,7 @@
         <module name="order_service" />
         <module name="api_gateway" />
         <module name="product_service" />
+        <module name="notification_service" />
         <module name="discovery_service" />
       </profile>
     </annotationProcessing>
@@ -19,6 +20,7 @@
       <module name="discovery_service" target="17" />
       <module name="ecommerce_microservices" target="17" />
       <module name="inventory_service" target="17" />
+      <module name="notification_service" target="17" />
       <module name="order_service" target="17" />
       <module name="product_service" target="17" />
     </bytecodeTargetLevel>
@@ -27,7 +29,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api_gateway" options="-parameters" />
       <module name="discovery_service" options="-parameters" />
+      <module name="ecommerce_microservices" options="-parameters" />
       <module name="inventory_service" options="-parameters" />
+      <module name="notification_service" options="-parameters" />
       <module name="order_service" options="-parameters" />
       <module name="product_service" options="-parameters" />
     </option>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/discovery_service/discovery_service.iml" filepath="$PROJECT_DIR$/discovery_service/discovery_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecommerce_microservices.iml" filepath="$PROJECT_DIR$/ecommerce_microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/inventory_service/inventory_service.iml" filepath="$PROJECT_DIR$/inventory_service/inventory_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification_service/notification_service.iml" filepath="$PROJECT_DIR$/notification_service/notification_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/order_service/order_service.iml" filepath="$PROJECT_DIR$/order_service/order_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/product_service/product_service.iml" filepath="$PROJECT_DIR$/product_service/product_service.iml" />
     </modules>
