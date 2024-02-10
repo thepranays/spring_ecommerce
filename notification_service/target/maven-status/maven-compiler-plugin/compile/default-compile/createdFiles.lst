@@ -1,0 +1,3 @@
+com\dreamfist\notification_service\NotificationServiceApplication.class
+com\dreamfist\notification_service\model\OrderLineItem.class
+com\dreamfist\notification_service\event\OrderCreatedEvent.class

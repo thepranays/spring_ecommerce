@@ -1,0 +1,7 @@
+com\dreamfist\inventory_service\repository\InventoryRepo.class
+com\dreamfist\inventory_service\service\InventoryService.class
+com\dreamfist\inventory_service\controller\InventoryController.class
+com\dreamfist\inventory_service\InventoryServiceApplication.class
+com\dreamfist\inventory_service\dto\InventoryRes$InventoryResBuilder.class
+com\dreamfist\inventory_service\model\Inventory.class
+com\dreamfist\inventory_service\dto\InventoryRes.class

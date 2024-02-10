@@ -5,51 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96a17dde-2b22-4c5a-8fbf-40ce21b42197" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_15_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_5_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_jersey3_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_jersey3_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_32.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_3_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_3_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_3_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_3_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_spring_bridge_3_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_connectors_jersey_apache_connector_3_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_3_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_3_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_3_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_3_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_3_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_hk2_3_1_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_29_2_GA.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_4_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/api_gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/api_gateway.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api_gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/src/main/java/com/dreamfist/api_gateway/ApiGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/src/main/java/com/dreamfist/api_gateway/ApiGatewayApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api_gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/target/classes/com/dreamfist/api_gateway/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/target/classes/com/dreamfist/api_gateway/config/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery_service/target/classes/com/dreamfist/discovery_service/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/target/classes/com/dreamfist/discovery_service/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/discovery_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/discovery_service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/inventory_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/inventory_service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/dreamfist/inventory_service/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/java/com/dreamfist/inventory_service/InventoryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/dreamfist/inventory_service/repository/InventoryRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/java/com/dreamfist/inventory_service/repository/InventoryRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/target/classes/com/dreamfist/inventory_service/InventoryServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/target/classes/com/dreamfist/inventory_service/InventoryServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/target/test-classes/com/dreamfist/inventory_service/InventoryServiceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_service/notification_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/notification_service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_service/target/test-classes/com/dreamfist/notification_service/NotificationServiceApplicationTests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/order_service/order_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/order_service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/src/main/java/com/dreamfist/order_service/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/java/com/dreamfist/order_service/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/src/main/java/com/dreamfist/order_service/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/java/com/dreamfist/order_service/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_service/src/main/java/com/dreamfist/order_service/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/java/com/dreamfist/order_service/OrderServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/OrderServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/OrderServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_service/target/test-classes/com/dreamfist/order_service/OrderServiceApplicationTests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/product_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/product_service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/src/main/java/com/dreamfist/product_service/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/src/main/java/com/dreamfist/product_service/ProductServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/target/classes/com/dreamfist/product_service/ProductServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/target/classes/com/dreamfist/product_service/ProductServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/target/surefire-reports/TEST-com.dreamfist.product_service.ProductServiceApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/target/surefire-reports/com.dreamfist.product_service.ProductServiceApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/target/test-classes/com/dreamfist/product_service/ProductServiceApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +97,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/notification_service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/realms" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25862068" />
@@ -115,12 +106,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\notification_service" />
-      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\product_service" />
-      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\inventory_service" />
-      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\order_service" />
+      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\realms" />
+      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\product_service\src\main\resources" />
+      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\order_service\src\main\resources" />
+      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\notification_service\src\main\resources" />
+      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\inventory_service\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices\inventory_service\src\main\resources" />
       <recent name="C:\BACKUP\SpringBootPractice\E-Commerce\ecommerce_microservices" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -134,7 +127,7 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ApiGatewayApplication">
+  <component name="RunManager" selected="Application.OrderServiceApplication">
     <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dreamfist.api_gateway.ApiGatewayApplication" />
       <module name="api_gateway" />
@@ -229,10 +222,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrderServiceApplication" />
         <item itemvalue="Application.ApiGatewayApplication" />
         <item itemvalue="Application.ProductServiceApplication" />
         <item itemvalue="Application.InventoryServiceApplication" />
-        <item itemvalue="Application.OrderServiceApplication" />
         <item itemvalue="Application.NotificationServiceApplication" />
       </list>
     </recent_temporary>
@@ -270,6 +263,7 @@
     <option featureType="dependencySupport" implementationName="java:org.rnorth.duct-tape:duct-tape" />
     <option featureType="dependencySupport" implementationName="java:org.freemarker:freemarker" />
     <option featureType="dependencySupport" implementationName="java:org.opentest4j:opentest4j" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
     <option featureType="dependencySupport" implementationName="java:org.junit.jupiter:junit-jupiter" />
     <option featureType="dependencySupport" implementationName="java:org.glassfish.jersey.core:jersey-client" />
     <option featureType="dependencySupport" implementationName="java:org.glassfish.hk2.external:aopalliance-repackaged" />

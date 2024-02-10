@@ -17,6 +17,7 @@ name in yml or properties file it will be registered to Eureka Server.
 public class ProductServiceApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ProductServiceApplication.class, args);
 		
 	}

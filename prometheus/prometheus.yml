@@ -1,0 +1,49 @@
+global:
+  scrape_interval: 10s #scrape metrics every 10s
+  evaluation_interval: 10s #evaluate every 10s based on custom rules(if setted)
+
+scrape_configs:
+  - job_name: 'product-service' #Job name
+    metrics_path: '/actuator/prometheus' #Pull from here
+    static_configs: #Where the service is running
+      - targets: ['product-service:8080']
+        labels: #Naming
+          application: "Product Service"
+
+  - job_name: 'order-service'
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['order-service:8080']
+        labels:
+          application: "Order Service"
+
+  - job_name: 'inventory-service'
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['inventory-service:8080']
+        labels:
+          application: "Inventory Service"
+
+  - job_name: 'notification-service'
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['notification-service:8080']
+        labels:
+          application: "Notification Service"
+
+  - job_name: 'discovery-service'
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['discovery-service:8761']
+        labels:
+          application: "Discovery Service"
+
+  - job_name: 'api-gateway'
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['api-gateway:8181']
+        labels:
+          application: "API Gateway"
+
+
+
