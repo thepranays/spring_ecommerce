@@ -102,11 +102,11 @@ services:
       KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: 1
 
   ## Zipkin
-   #zipkin:
-   # image: openzipkin/zipkin
-   # container_name: zipkin
-   # ports:
-   #   - "9411:9411"
+  zipkin:
+    image: openzipkin/zipkin
+    container_name: zipkin
+    ports:
+      - "9411:9411"
 
   ## Eureka Server
   discovery-server:
@@ -116,8 +116,8 @@ services:
       - "8761:8761"
     environment:
       - SPRING_PROFILES_ACTIVE=docker
-    #depends_on:
-     # - zipkin
+    depends_on:
+      - zipkin
     command: --spring.profiles.active=docker
 
   api-gateway:
@@ -131,7 +131,7 @@ services:
       - SPRING_PROFILES_ACTIVE=docker
       - LOGGING_LEVEL_ORG_SPRINGFRAMEWORK_SECURITY= TRACE
     depends_on:
-     # - zipkin
+      - zipkin
       - discovery-server
       - keycloak
     command: --spring.profiles.active=docker
@@ -142,6 +142,7 @@ services:
     environment:
       - SPRING_PROFILES_ACTIVE=docker
     depends_on:
+      - zipkin
       - mongo
       - discovery-server
       - api-gateway
@@ -159,7 +160,7 @@ services:
     depends_on:
       - postgres-order
       - broker
-     # - zipkin
+      - zipkin
       - discovery-server
       - api-gateway
     command: --spring.profiles.active=docker
@@ -175,6 +176,7 @@ services:
       - SPRING.DATASOURCE.USERNAME=admin
       - SPRING.DATASOURCE.PASSWORD=admin
     depends_on:
+      - zipkin
       - postgres-inventory
       - discovery-server
       - api-gateway
@@ -187,7 +189,7 @@ services:
     environment:
       - SPRING_PROFILES_ACTIVE=docker
     depends_on:
-     # - zipkin
+      - zipkin
       - broker
       - discovery-server
       - api-gateway

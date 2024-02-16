@@ -8,39 +8,47 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api_gateway/api_gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/api_gateway.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api_gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/src/main/resources/application-docker.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api_gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/target/jib-image.digest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/target/jib-image.id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gateway/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/target/jib-image.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/discovery_service/discovery_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/discovery_service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/discovery_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/src/main/resources/application-docker.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/discovery_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/target/jib-image.digest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/target/jib-image.id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/target/jib-image.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory_service/inventory_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/inventory_service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/dreamfist/inventory_service/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/java/com/dreamfist/inventory_service/InventoryServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/java/com/dreamfist/inventory_service/repository/InventoryRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/java/com/dreamfist/inventory_service/repository/InventoryRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/resources/application-docker.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/target/classes/com/dreamfist/inventory_service/InventoryServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/target/classes/com/dreamfist/inventory_service/InventoryServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/target/test-classes/com/dreamfist/inventory_service/InventoryServiceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/target/jib-image.digest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/target/jib-image.id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/target/jib-image.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notification_service/notification_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/notification_service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notification_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/src/main/resources/application-docker.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notification_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification_service/target/test-classes/com/dreamfist/notification_service/NotificationServiceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/target/jib-image.digest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/target/jib-image.id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/target/jib-image.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order_service/order_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/order_service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/src/main/java/com/dreamfist/order_service/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/java/com/dreamfist/order_service/OrderServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/resources/application-docker.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/OrderServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/classes/com/dreamfist/order_service/OrderServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/test-classes/com/dreamfist/order_service/OrderServiceApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/jib-image.digest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/jib-image.id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/jib-image.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product_service/product_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/product_service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/src/main/java/com/dreamfist/product_service/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/src/main/java/com/dreamfist/product_service/ProductServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/src/main/resources/application-docker.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/classes/com/dreamfist/product_service/ProductServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/target/classes/com/dreamfist/product_service/ProductServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/surefire-reports/TEST-com.dreamfist.product_service.ProductServiceApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/surefire-reports/com.dreamfist.product_service.ProductServiceApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/test-classes/com/dreamfist/product_service/ProductServiceApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/target/jib-image.digest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/target/jib-image.id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/target/jib-image.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
