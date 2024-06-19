@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96a17dde-2b22-4c5a-8fbf-40ce21b42197" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/api_gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/api_gateway.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/src/main/resources/application-docker.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/target/jib-image.digest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/target/jib-image.id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_gateway/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/api_gateway/target/jib-image.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery_service/discovery_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/discovery_service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/src/main/resources/application-docker.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/target/jib-image.digest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/target/jib-image.id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/discovery_service/target/jib-image.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/inventory_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/inventory_service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/resources/application-docker.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/target/jib-image.digest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/target/jib-image.id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_service/target/jib-image.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification_service/notification_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/notification_service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/src/main/resources/application-docker.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/target/jib-image.digest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/target/jib-image.id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/notification_service/target/jib-image.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/order_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/order_service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/resources/application-docker.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/jib-image.digest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/jib-image.id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/order_service/target/jib-image.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/product_service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/product_service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/src/main/resources/application-docker.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/src/main/resources/application-docker.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/jib-image.digest" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/target/jib-image.digest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/jib-image.id" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/target/jib-image.id" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product_service/target/jib-image.json" beforeDir="false" afterPath="$PROJECT_DIR$/product_service/target/jib-image.json" afterDir="false" />
-    </list>
+    <list default="true" id="96a17dde-2b22-4c5a-8fbf-40ce21b42197" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/realms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CP &amp; DSA" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25862068" />
